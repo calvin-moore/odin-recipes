@@ -7,5 +7,3 @@ Skills I will practice :
  - using HTML to create the structure of the pages.
  - using css flexbox for the lay out of the web pages. 
  - using git to add, commit and push my files to local and remote repository. 
-
- 
