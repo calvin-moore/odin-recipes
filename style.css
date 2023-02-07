@@ -46,6 +46,8 @@ table {
 /* Custom CSS */
 body {
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(142, 200, 197, 0.4);
 }
 
 h1 {
